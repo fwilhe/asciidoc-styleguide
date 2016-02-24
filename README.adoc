@@ -1,0 +1,38 @@
+= asciidoc-styleguide
+My personal (opinionated) asciidoc styleguide
+
+== Headings
+
+Always use the `=` sign for headers, never use underlining.
+
+Good:
+
+----
+= Title
+foo
+
+== Level 1
+bar
+
+== Level 2
+baz
+----
+
+Bad:
+
+----
+Level 1
+-------
+bar
+
+Level 2
+~~~~~~~
+baz
+----
+
+== Line Breaks
+
+Begin a new line for each sentence.
+Don't break the line, even if your sentence is very long.
+If your sentence is really long, think about rephrasing it into shorter sentences.
+If you wish to hear more reasoning for this rule, please refer to https://www.youtube.com/watch?v=r6RXRi5pBXg[this] awesome talk by @mojavelinux
