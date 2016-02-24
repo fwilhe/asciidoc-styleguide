@@ -30,6 +30,22 @@ Level 2
 baz
 ----
 
+== Identifiers, Keywords, etc
+
+If you use anything like identifiers, keywords or other closely-tech related terms, use backticks to enclose them.
+
+Good:
+
+----
+The returned value is of type `int`.
+----
+
+Bad:
+
+----
+The returned value is of type int.
+----
+
 == Line Breaks
 
 Begin a new line for each sentence.
