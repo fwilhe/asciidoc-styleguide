@@ -36,3 +36,8 @@ Begin a new line for each sentence.
 Don't break the line, even if your sentence is very long.
 If your sentence is really long, think about rephrasing it into shorter sentences.
 If you wish to hear more reasoning for this rule, please refer to https://www.youtube.com/watch?v=r6RXRi5pBXg[this] awesome talk by @mojavelinux
+
+The reader won't notice this, if she reads a rendered document (html or pdf, for example).
+It might be odd for readers who read the plain text, but I think that's ok.
+
+Note that you need to begin a new paragraph, if you want to create a line break in the rendered document.
